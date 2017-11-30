@@ -1,5 +1,6 @@
 {
   "name": "trend-chart",
+  "version": "1.0.0",
   "description": "The Trend chart Plugin displays the trending items in your application",
   "main": "src/trend-chart.js",
   "license": "(UNLICENSED)",
