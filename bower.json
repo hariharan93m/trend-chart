@@ -1,0 +1,19 @@
+{
+  "name": "trend-chart",
+  "description": "The Trend chart Plugin displays the trending items in your application",
+  "main": "src/trend-chart.js",
+  "license": "(UNLICENSED)",
+  "ignore": [
+    "README.md",
+    "package.json"
+  ],
+  "keywords": [ "trend", "chart", "trending-items", "chart" ],
+  "authors": [
+    { "name": "Hariharan Muthukrishnan" }
+  ],
+  "homepage": "https://github.com/hariharan93m/trend-chart",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hariharan93m/trend-chart.git"
+  }
+}
